@@ -3,7 +3,7 @@ I'm Braden Chamberlain, an aspiring data scientist.
 
 I'm currently working on learning as much as I can about machine learning and communicating the results of machine learning models.
 
-I aspire to be a top-level data scientist and am tenacious in my learning in Python, Pandas, SQL, and more.
+I aspire to be a top-level data scientist and am tenacious in learning Python, Pandas, SQL, and more.
 
 <!--
 **braden-chamberlain/braden-chamberlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
