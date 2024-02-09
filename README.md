@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Braden Chamberlain, an aspiring data scientist.
 
-I'm wurrently working on learning as much as I can about machine learning and communicating the results of machine learning models.
+I'm currently working on learning as much as I can about machine learning and communicating the results of machine learning models.
 
 I aspire to be a top-level data scientist and am tenacious in my learning in Python, Pandas, SQL, and more.
 
