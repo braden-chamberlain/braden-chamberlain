@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Braden Chamberlain, an aspiring data scientist.
+<h1 align="center">Hi 👋, I'm Braden Chamberlain</h1>
+<h3 align="center">An aspiring top-level data scientist</h3>
 
 I'm currently working on learning as much as I can about machine learning and communicating the results of machine learning models.
 
