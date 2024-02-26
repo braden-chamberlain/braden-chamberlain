@@ -3,7 +3,7 @@
 
 I'm currently working on learning as much as I can about machine learning and communicating the results of machine learning models.
 
-I aspire to be a top-level data scientist and am tenacious in learning Python, Pandas, SQL, and more.
+I aspire to be a top-level data scientist and am tenacious in becoming proficient with Python, Pandas, SQL, and more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
