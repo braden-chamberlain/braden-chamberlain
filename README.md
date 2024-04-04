@@ -3,7 +3,7 @@
 
 I'm currently working on learning as much as I can about machine learning and communicating the results of machine learning models.
 
-I plan to be the best data scientist I can be and am tenacious in becoming proficient with Python, SQL, Nueral Networks, and more.
+I plan to be the best data scientist I can be and am tenacious in becoming proficient with Python, SQL, Data Cleaning, Machine Learning, Neural Networks, and more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
