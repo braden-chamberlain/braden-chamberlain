@@ -10,7 +10,7 @@ DBNAME = 'kfslimqb'
 USER = 'kfslimqb'
 
 # 'password' from esql
-PASSWORD = 'OrzzIXQVjkDY42c90Ur0iOAA4E77_SqL'
+PASSWORD = ***Redacted***
 
 #'server' from esql
 HOST = 'stampy.db.elephantsql.com'
